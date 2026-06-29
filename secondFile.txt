@@ -1,5 +1,7 @@
 Line 1 changed different
 Line 2 changed different
+Line 1 Changed
+Line 2 Changed
 Line 3
 Line 4
 Line 5
