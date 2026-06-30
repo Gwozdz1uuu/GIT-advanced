@@ -4,7 +4,7 @@ Line 3 updated by git_1
 Line 4 updated by git_1
 Line 5 step 8 changes
 Line 6 step 8 changes
-Line 7
-Line 8
+Line 7 updated in new folder
+Line 8 updated in new folder
 Line 9
 Line 10
